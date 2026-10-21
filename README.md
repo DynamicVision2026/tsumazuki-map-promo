@@ -51,6 +51,7 @@
 小1から高3まで、算数・数学。気になった方は、こちらからどうぞ。  
 https://tsumazuki.domo-ai.com/
 
+
 ---
 
 ## 関連記事（SEO）
@@ -58,6 +59,10 @@ https://tsumazuki.domo-ai.com/
 - [テスト直しが続かないときに親ができること](seo/01-tesuto-naoshi-tsuzukanai.md)
 - [数学の復習アプリを探す前に決めたいこと](seo/02-sugaku-fukushu-app.md)
 - [テスト前の夜、「何からやる？」を短く決める](seo/03-tesuto-mae-konya-no-sakusen.md)
+- [保護者向け：算数のつまずきを見える化する](seo/04-hogosha-sansu-tsumazuki.md)
+- [中高生：テスト前の「今夜の作戦」](seo/05-chukousei-sugaku-konya-no-sakusen.md)
 - [紹介文ワンページ](seo/pitch-ja.md)
+
+掲載: [航海広場 第055号](https://koukai-hiroba.onrender.com/s/s1a4f0f5954a6)
 
 料金（事実）: 登録不要で30枚まで無料／年額5,800円（税込）。運営: Beyond Culture／獨歩文化株式会社。
