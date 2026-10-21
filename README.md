@@ -50,3 +50,14 @@
 
 小1から高3まで、算数・数学。気になった方は、こちらからどうぞ。  
 https://tsumazuki.domo-ai.com/
+
+---
+
+## 関連記事（SEO）
+
+- [テスト直しが続かないときに親ができること](seo/01-tesuto-naoshi-tsuzukanai.md)
+- [数学の復習アプリを探す前に決めたいこと](seo/02-sugaku-fukushu-app.md)
+- [テスト前の夜、「何からやる？」を短く決める](seo/03-tesuto-mae-konya-no-sakusen.md)
+- [紹介文ワンページ](seo/pitch-ja.md)
+
+料金（事実）: 登録不要で30枚まで無料／年額5,800円（税込）。運営: Beyond Culture／獨歩文化株式会社。
