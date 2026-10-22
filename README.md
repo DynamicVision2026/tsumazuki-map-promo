@@ -63,6 +63,11 @@ https://tsumazuki.domo-ai.com/
 - [中高生：テスト前の「今夜の作戦」](seo/05-chukousei-sugaku-konya-no-sakusen.md)
 - [紹介文ワンページ](seo/pitch-ja.md)
 
-掲載: [航海広場 第055号](https://koukai-hiroba.onrender.com/s/s1a4f0f5954a6)
+## 掲載・プレス
+
+- [ツナググ｜宿題・テストを撮るだけ。算数・数学のつまずきマップ](https://press.portal-th.com/archives/53991)
+- [航海広場 第055号](https://koukai-hiroba.onrender.com/s/s1a4f0f5954a6)
+- [Directory Index｜Tsumazuki Map](https://directory-index.com/education/tsumazuki-map/)
+- [Tamago](https://tamago.atombase.app/product/-mviqxsfn)
 
 料金（事実）: 登録不要で30枚まで無料／年額5,800円（税込）。運営: Beyond Culture／獨歩文化株式会社。
